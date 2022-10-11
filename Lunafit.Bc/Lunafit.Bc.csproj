@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lunafit.Data\Lunafit.Data.csproj" />
+    <ProjectReference Include="..\Lunafit.Service\Lunafit.Service.csproj" />
+  </ItemGroup>
+
+</Project>
